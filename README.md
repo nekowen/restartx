@@ -1,0 +1,2 @@
+# restartx
+Restart Xcode quickly
